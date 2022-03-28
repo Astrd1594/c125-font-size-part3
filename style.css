@@ -1,0 +1,53 @@
+.how2use{
+    color: black !important;
+}
+.btn-warning{
+    background-color: rgb(246, 172, 54) !important;
+    width: 100%;
+    box-shadow: 0px 5px 10px black;
+    border-width: 0px;
+    border-radius: 5px;
+}
+canvas{
+    border-width: 3px;
+    border-color: white;
+    border-radius: 10px;
+    background-color: rgb(87, 131, 189);
+    margin-top: 25px;
+    margin-left: 300px;
+    border: 7px solid white;
+    box-shadow: 5px 5px 7px rgb(77, 77, 77);
+    color: rgb(222, 186, 231);
+}
+video{
+    border-width: 3px;
+    border-color: white;
+    border-radius: 10px;
+    margin-top: 75px;
+    margin-left: 150px;
+    border: 7px solid white;
+    box-shadow: 5px 5px 7px rgb(77, 77, 77);
+}
+body{
+    background-position: center;
+    background-size: contain;
+    padding: 0px !important;
+}
+h1{
+    font-weight: lighter !important;
+    font-size: 35px !important;
+}
+p{
+    font-weight: lighter !important;
+    font-size: 15px;
+}
+marquee{
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: 20px !important;
+    background-color:rgb(239, 246, 142);
+    color: rgb(77, 95, 27);
+    padding: 3px;
+    width: 100% !important;
+    margin-top: 650px;
+    border-radius: 5px;
+}
